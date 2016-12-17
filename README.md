@@ -1,1 +1,2 @@
-# docker-elixir-phoenix
+# docker-phenomic
+node.js + npm + phenomic
